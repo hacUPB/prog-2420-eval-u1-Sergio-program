@@ -25,7 +25,7 @@ La velocidad del computador es la cantidad de veces que se ejecuta un ciclo en c
 ## Secuencia de arranque de un PC
 
 ## Diagrama funcionamiento PC
-<img src="prog.jpeg" alt="Diagrama" />
+![Diagrama](https://whimsical.com/hardware-software-8pUjbBg9pgVyyf5KXbEFqX)
 
 
 ## Referencias
