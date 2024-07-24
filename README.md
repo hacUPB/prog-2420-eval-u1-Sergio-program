@@ -23,7 +23,10 @@ La función principal de la CPU (central processing unit) es la de hilar la info
 La velocidad del computador es la cantidad de veces que se ejecuta un ciclo en cada segundo. Un ciclo es como se le conoce a la apertura y cierre de los transistores del procesador.
 
 ## Secuencia de arranque de un PC
-s
+
+## Diagrama funcionamiento PC
+<img src="prog.jpeg" alt="Diagrama" />
+
 
 ## Referencias
 - [https://www.xataka.com/basics/cpu-que-como-sirve](URL)
