@@ -18,3 +18,6 @@ Si horas<= 2 entonces
 Fin si
 Fin
 ```
+
+### Tarjetas de crédito
+Calcular pago total después de las cuotas
