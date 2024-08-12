@@ -51,8 +51,16 @@ Fin
 - Definición de problema:
 Determinar distancia recorrida conociendo velocidad y tiempo.
 - Variables a usar:
-velocidad, tiempo, distancia.
+velocidad, tiempo, distancia, cant, sumatoria.
 
 ```
 Inicio
-            
+    Leer cant
+    Definir sumatoria como 0
+        Para cada velocidad y tiempo desde 1 hasta cant
+            Leer velocidad
+            Leer tiempo
+                distancia=Velocidad*tiempo
+                Sumar distancia a sumatoria
+        Print "La distancia total recorrida fue" sumatoria
+Fin
